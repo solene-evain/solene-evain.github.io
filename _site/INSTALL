@@ -1,0 +1,102 @@
+1/ create dir locally
+2/ cd dir
+3/ jekyll new .
+4/ pour activer le site et le voir localement: bundle exec jekyll serve
+	puis: http://localhost:4000/
+
+5/ When you're changing the _config.yml file, the update will not be applied unless you restart the server and run this line again: bundle exec jekyll serve
+
+6/ en vrai rien ne fonctionnait, donc j'ai fini par copier les dossiers et fichiers de https://github.com/jeromelachaud/freelancer-theme dans mon dossier local directement. Puis push. 
+
+
+sudo apt-get install bundler jekyll
+ 2005  jekyll new website_portfolio
+ 2006  cd website_portfolio/
+ 2007  ls
+ 2008  cd ..
+ 2009  rm -r website_portfolio/
+ 2010  mkdir website-portfolio
+ 2011  cd website-portfolio/
+ 2012  git init  solene-evain.github.io
+ 2013  ls
+ 2014  cd solene-evain.github.io/
+ 2015  ls
+ 2016  cd ..
+ 2017  rm -r solene-evain.github.io/
+ 2018  ls
+ 2019  ls -la
+ 2020  git clone https://github.com/solene-evain/solene-evain.github.io.git
+ 2021  ls
+ 2022  cd solene-evain.github.io/
+ 2023  ls
+ 2024  jekyll new --skip-bundle
+ 2025  jekyll new --skip-bundle .
+ 2026  jekyll new --skip-bundle --force .
+ 2027  ls
+ 2028  vim Gemfile 
+ 2029  ls
+ 2030  cd ..
+ 2031  rm -r solene-evain.github.io/
+ 2032  ls
+ 2033  git clone https://github.com/jeromelachaud/freelancer-theme.git
+ 2034  cd freelancer-theme/
+ 2035  ls
+ 2036  vim Gemfile 
+ 2037  bundle install
+ 2038  ls
+ 2039  cd ..
+ 2040  ls
+ 2041  cd freelancer-theme/
+ 2042  git add --all
+ 2043  git commit -m 'first commit'
+ 2044  git push
+ 2045  ls
+ 2046  cat _config.yml 
+ 2047  vim _config.yml 
+ 2048  cd ..
+ 2049  rm -r freelancer-theme/
+ 2050  ls
+ 2051  jekyll new
+ 2052  jekyll new .
+ 2053  ls
+ 2054  bundle exec jekyll serve
+ 2055  ls
+ 2056  vim Gemfile
+ 2057  vim _config.yml 
+ 2058  bundle update
+ 2059  git remote add origin https://github.com/solene-evain/solene-evain.github.io.git
+ 2060  git init
+ 2061  git remote add origin https://github.com/solene-evain/solene-evain.github.io
+ 2062  git add .
+ 2063  git commit -m 'initial commit'
+ 2064  git remote -v
+ 2065  git push origin master
+ 2066  git config --global user.name "solene-evain"
+ 2067  git config --global user.email "solen.evain@gmail.com"
+ 2068  git config -l
+ 2069  git push origin master
+ 2070  git config --global credential.helper cache
+ 2071  ls
+ 2072  ls -l
+ 2073  git push origin master
+ 2074  git remote add origin https://github.com/solene-evain/solene-evain.github.io
+ 2075  git add .
+ 2076  git commit -m 'initial commit'
+ 2077  git remote -v
+ 2078  git push origin master
+ 2079  git remote add origin https://github.com/solene-evain/solene-evain.github.io.git
+ 2080  git push origin master
+ 2081  bundle exec jekyll serve
+ 2082  bundle exec jekyll server
+ 2083  git pull
+ 2084  ls
+ 2085  vim _config.yml 
+ 2086  bundle exec jekyll server
+ 2087  ls
+ 2088  vim index.md 
+ 2089  bundle exec jekyll server
+ 2090  jekyll --version
+ 2091  gem cleanup 1.1.6
+ 2092  jekyll --version
+ 2093  gem cleanup 1.1.9
+ 2094  bundle exec

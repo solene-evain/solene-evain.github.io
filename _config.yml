@@ -1,11 +1,11 @@
 # Site settings
-title: Freelancer
+title: Solène Evain
 email: solen.evain@gmail.com
 url: https://github.com/solene-evain.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+description: "Solene Evain's personal website"
+keywords: "speech recognition, reconnaissance vocale, LIG, Grenoble, Informatique, Computer scientist"
+skills: "PhD student in automatic speech recognition" 
+meta_author: Evain Solene
 
 # Google webmaster tools
 google_verify:
@@ -23,12 +23,24 @@ contact: static
 # https://help.disqus.com/customer/portal/articles/466208
 disqus_shortname: myshortname
 
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: 18bc9c #80B3FF
   primary-rgb: "24,288,156" #"128,179,255"
   secondary: 2c3e50 #FD6E8A
   secondary-dark: 233140 #A2122F
+  color-try: ff4633 #
+  light-gray: f5f4f4 #
+  light-green: eafcf9
 
 # Footer settings
 footer:
@@ -40,20 +52,107 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: http://twitter.com/EvainSolene
+  - title: book 
+    url: https://cv.archives-ouvertes.fr/solene-evain
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/solene-evain
+  - title: bolt 
+    url: http://gitlab.com/solene-evain
+  - title: linkedin
+    url: https://www.linkedin.com/in/solene-evain/
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Laboratoire d'Informatique de Grenoble
+  - line: Bureau 325, équipe GETALP
+  - line: Bâtiment IMAG, 700 Av. Centrale
+  - line: 38401 Saint-Martin-d'Hères
+
+
+#workHistory:
+workHistory:
+    - work1:
+      company: LIG laboratory
+      location: Grenoble, France
+      title: PhD student
+      started: 2020
+      duration: (2020 - Present)
+      description: Spontaneous speech recognition
+    - work2:
+      company: LIG laboratory
+      location: Grenoble, France
+      title: Ingénieure d'études
+      started: 2020
+      duration: (June 2020 - Aug. 2020)
+      description: I am not a description. I am not description.I am not description.
+    - work3:
+      company: LIG laboratory
+      location: Grenoble, France
+      title: Ingénieure d'études
+      started: 2019
+      duration: (Oct. 2019 - May 2020)
+      description: I am not a description. 
+    - work4:
+      company: LIG laboratory
+      location: Grenoble, France
+      title: Intern
+      started: 2019
+      duration: (March 2019 - Aug. 2019)
+      description: blabla
+educationHistory:
+    - education1:
+      organization: Grenoble University
+      location: Grenoble, France
+      degree: Bachelor
+      major: Software Engineering
+      started: 2005
+      duration: (2005 - 2009)
+      description: I am not a description.
+    - education2:
+      organization: University of Toulouse
+      location: Toulouse, France
+      degree: xx
+      major: ff
+      started: 20
+      duration: (2020 -2020)
+      description: blabla
+    - education3:
+      organization: Université de Nantes
+      location: Nantes, France
+      degree: xx
+      major: xx
+      started: xx
+      duration: (2020-2020)
+      description: blabla
+languages:
+    - language1:
+      name: Chinese
+      proficiency: Native
+    - language2:
+      name: English
+      proficiency: Professional
+    - language3:
+      name: Japanese
+      proficiency: Limit
+
+# programming skills
+programmingSkills:
+    - skill1:
+      name: HTML
+      percentage: 100%
+    - skill2:
+      name: Bootstrap
+      percentage: 90%
+    - skill3:
+      name: JavaScript
+      percentage: 70%
+    - skill4:
+      name: AngularJS
+      percentage: 70%
+    - skill5:
+      name: Java/Java EE
+      percentage: 90%
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
