@@ -1,0 +1,55 @@
+<!-- Portfolio Grid Section -->
+<section id="portfolio">
+  <div class="container bigTable">
+      <div class="row">
+        <div class="col-lg-12 text-center">
+  			<br><br>
+	   		<h2>Corpus en français</h2>
+        <br><br>
+        <p>*Non renseigné: - ; Nombre: #</p>
+        </div>
+      </div>
+      <div>   
+<table>
+   <tr>
+        <th><strong>Corpus</strong></th> 
+        <th><strong>Sous-corpus</strong></th>
+        <th><strong>Author, date</strong></th>
+        <th><strong>Licence</strong></th>
+        <th>Volume </th>
+        <th>Audio quality</th>    
+        <th>Type of speech </th>
+        <th>#W/M/unk </th>
+        <th>Accent  </th>
+        <th>Transcription </th>
+        <th>Segmented </th>
+        <th>Comment  </th>
+   </tr>
+
+   <tr>
+       <td>Carmen</td>
+       <td>33 ans</td>
+       <td>jhds kjhsekuh keh kehysj duts dkygek yg</td>
+   </tr>
+   <tr>
+       <td>Michelle</td>
+       <td>26 ans</td>
+       <td>États-Unis</td>
+   </tr>
+</table>
+</div>
+  </div>
+  <script type="text/javascript">
+  const compare = (ids, asc) => (row1, row2) => {
+  const tdValue = (row, ids) => row.children[ids].textContent;
+  const tri = (v1, v2) => v1 !== '' && v2 !== '' && !isNaN(v1) && !isNaN(v2) ? v1 - v2 : v1.toString().localeCompare(v2);
+  return tri(tdValue(asc ? row1 : row2, ids), tdValue(asc ? row2 : row1, ids));};
+
+  const tbody = document.querySelector('tbody');
+  const thx = document.querySelectorAll('th');
+  const trxb = tbody.querySelectorAll('tr');
+  thx.forEach(th => th.addEventListener('click', () => {
+  let classe = Array.from(trxb).sort(compare(Array.from(thx).indexOf(th), this.asc = !this.asc));
+  classe.forEach(tr => tbody.appendChild(tr));}));
+  </script>
+</section>

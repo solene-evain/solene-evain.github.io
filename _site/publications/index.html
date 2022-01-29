@@ -8,7 +8,7 @@
     <meta name="description" content="Solene Evain's personal website">
     <meta name="keywords" content="speech recognition, reconnaissance vocale, LIG, Grenoble, Informatique, Computer scientist" />
     <meta name="author" content="Evain Solene">
-    <link rel="canonical" href="http://localhost:4000/">
+    <link rel="canonical" href="http://localhost:4000/publications/">
     <link rel="alternate" type="application/rss+xml" title="RSS" href="/feed.xml">
 
     <!-- Custom CSS & Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
@@ -78,45 +78,81 @@
         <!-- /.container-fluid -->
     </nav>
 
-    <!-- Header -->
-<header>
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-12">
-        <img class="img-responsive" src="img/profile_cut.jpg" width="200" height="200" alt="profile-pic" />
-        <div class="intro-text">
-          <span class="name">Solène Evain</span>
-	  <!-- <hr class="star-light" /> -->
-          <span class="skills">PhD student in automatic speech recognition</span>
-        </div>
-      </div>
-    </div>
-    <div class="row">
-	    <br><br>
-        <p></p>
-      </div> 
-    </div>
-</header>
-
      <!-- About Section -->
-    <section class="success" id="about">
+    <section id="experience">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <br><br>
-                    <h2>About</h2>
+                    <h2>Publications</h2>
                     <br><br>
                 </div>
-	    </div>
-	<!--	<div class="row">
-	<div class="col-lg-4 col-lg-offset-2"> -->
-                    <p>Je m'appelle Solène Evain. Je suis en doctorat au laboratoire d'informatique de grenoble, sous la direction de F. Portet et S. Rossato. Je travaille sur la reconnaissance automatique de la parole spontanée.</p>
-        <!-- 	</div>
-	<div class="col-lg-4"> -->
-                    <p>Whether you're a student looking to showcase your work, a professional looking to attract clients, or a graphic artist looking to share your projects, this template is the perfect starting point! </p>
-		    <!--  </div> -->
-    </section>
+	       </div>
+           <p>Vous pouvez retrouver la liste actualisée des publications ici: <a href="https://cv.archives-ouvertes.fr/solene-evain">https://cv.archives-ouvertes.fr/solene-evain</a></p>
+<table>
+   <tr>
+        <th>Date </th>
+        <th>Project</th>    
+        <th>Paper</th>
+        <th>Conference/workshop</th>
 
+   </tr>
+
+   <tr>
+       <td>2021</td>
+       <td>Thèse</td>
+       <td>Poster LIFT</td>
+       <td>LIFT, Grenoble</td>
+
+   </tr>
+   <tr>
+       <td>2021</td>
+       <td>LeBenchmark</td>
+       <td>Lebenchmark: blabla</td>
+       <td>Interspeech</td>
+
+   </tr>
+      <tr>
+       <td>2021</td>
+       <td>Beatbox</td>
+       <td>reconnaissance</td>
+       <td>Italie</td>
+
+   </tr>
+   <tr>
+       <td>2021</td>
+       <td>LeBenchmark</td>
+       <td>blabla</td>
+       <td>JEP</td>
+
+   </tr>
+   <tr>
+       <td>2020</td>
+       <td>LeBenchmark</td>
+       <td>Task Agnostic: blabla</td>
+       <td>NeurIPS</td>
+
+   </tr>
+</table>
+        
+
+        </div>
+        <script type="text/javascript">
+              const compare = (ids, asc) => (row1, row2) => {
+              const tdValue = (row, ids) => row.children[ids].textContent;
+              const tri = (v1, v2) => v1 !== '' && v2 !== '' && !isNaN(v1) && !isNaN(v2) ? v1 - v2 : v1.toString().localeCompare(v2);
+              return tri(tdValue(asc ? row1 : row2, ids), tdValue(asc ? row2 : row1, ids));};
+
+              const tbody = document.querySelector('tbody');
+              const thx = document.querySelectorAll('th');
+              const trxb = tbody.querySelectorAll('tr');
+              thx.forEach(th => th.addEventListener('click', () => {
+              let classe = Array.from(trxb).sort(compare(Array.from(thx).indexOf(th), this.asc = !this.asc));
+              classe.forEach(tr => tbody.appendChild(tr));}));
+        </script>
+</section>
+
+    
 
         <!-- Footer -->
     <footer class="text-center">
@@ -188,7 +224,7 @@
         </a>
     </div>
 
-    
+
      <!-- jQuery Version 1.11.0 -->
     <script src="/js/jquery-1.11.0.js"></script>
 

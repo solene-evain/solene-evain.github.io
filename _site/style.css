@@ -12,8 +12,10 @@
  */
 
 body {
-    overflow-x: hidden;
+    overflow-x: auto;
 }
+
+
 
 p {
     font-size: 20px;
@@ -42,6 +44,8 @@ h6 {
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
 }
+
+
 
 hr.star-light,
 hr.star-primary {
@@ -527,4 +531,33 @@ footer .footer-below {
 .modal.fade.in {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
+}
+
+table {
+    max-width: 100% !important;
+    width: 100% !important;
+    table-layout: fixed;
+    border-collapse: collapse;
+    font-size: 20px;
+}
+
+th {
+    border: 1px solid black !important;
+    padding: 2px 3px;
+    max-width:100%;
+    word-wrap: break-word !important;
+    background-color: lightgrey;
+}
+
+td {
+    border: 1px solid black !important;
+    padding: 2px 3px;
+    max-width:100%;
+    word-wrap: break-word !important;
+}
+
+
+div.container.bigTable {
+    /*background-color: yellow !important;*/
+    width: 95%;
 }
