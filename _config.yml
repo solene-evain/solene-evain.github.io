@@ -78,81 +78,83 @@ workHistory:
       title: PhD student
       started: 2020
       duration: (2020 - Present)
-      description: Spontaneous speech recognition
+      description: Deep learning models for the recognition and analysis of spontaneous speech.
     - work2:
       company: LIG laboratory
       location: Grenoble, France
       title: Ingénieure d'études
       started: 2020
       duration: (June 2020 - Aug. 2020)
-      description: I am not a description. I am not description.I am not description.
+      description: Creation of language models from Wikipedia articles collected with keywords
     - work3:
       company: LIG laboratory
       location: Grenoble, France
       title: Ingénieure d'études
       started: 2019
       duration: (Oct. 2019 - May 2020)
-      description: I am not a description. 
+      description: Automatic captioning for deaf university students.
     - work4:
       company: LIG laboratory
       location: Grenoble, France
       title: Intern
       started: 2019
       duration: (March 2019 - Aug. 2019)
-      description: blabla
+      description: Automatic recognition of Human Beatbox sounds.
 educationHistory:
     - education1:
       organization: Grenoble University
       location: Grenoble, France
-      degree: Bachelor
-      major: Software Engineering
-      started: 2005
-      duration: (2005 - 2009)
-      description: I am not a description.
+      degree: master's degree
+      major: 
+      started: 2017
+      duration: (2017 - 2019)
+      description: Master's degree "Industries de la langue" in natural language processing
     - education2:
       organization: University of Toulouse
       location: Toulouse, France
-      degree: xx
-      major: ff
-      started: 20
-      duration: (2020 -2020)
-      description: blabla
+      degree: master's degree
+      major: 
+      started: 2016
+      duration: (2016 -2017)
+      description: Master's degree "Linguistique, Cognition et Communication" in linguistics and cognition.
     - education3:
       organization: Université de Nantes
       location: Nantes, France
-      degree: xx
-      major: xx
-      started: xx
-      duration: (2020-2020)
-      description: blabla
+      degree: Bachelor's degree
+      major: 
+      started: 2015
+      duration: (2013-2016)
+      description: Bachelor's degree "Langues, Littératures et Civilisations Etrangères" in language, literature and civilization (English)
+    - education4:
+      organization: Lycée Galilée
+      location: Guérande, France
+      degree: high school diploma
+      major:
+      started: 
+      duration:
+      description: High school diploma in literature. 
 languages:
     - language1:
-      name: Chinese
+      name: French
       proficiency: Native
     - language2:
       name: English
       proficiency: Professional
-    - language3:
-      name: Japanese
-      proficiency: Limit
 
 # programming skills
 programmingSkills:
     - skill1:
-      name: HTML
-      percentage: 100%
+      name: Python
+      percentage: 
     - skill2:
-      name: Bootstrap
-      percentage: 90%
+      name: Bash
+      percentage: 
     - skill3:
-      name: JavaScript
-      percentage: 70%
+      name: HTML
+      percentage: 
     - skill4:
-      name: AngularJS
-      percentage: 70%
-    - skill5:
-      name: Java/Java EE
-      percentage: 90%
+      name: Java
+      percentage: 
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
