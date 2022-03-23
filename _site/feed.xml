@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2022-03-23T10:45:54+01:00</updated>
+  <updated>2022-03-23T11:21:20+01:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -157,7 +157,7 @@
                                 &lt;/div&gt;
                                 &lt;div class=&quot;timeline-body&quot;&gt;
                                     
-                                        &lt;p&gt;Spontaneous speech recognition&lt;/p&gt;
+                                        &lt;p&gt;Deep learning models for the recognition and analysis of spontaneous speech.&lt;/p&gt;
                                     
                                 &lt;/div&gt;
                             &lt;/div&gt;
@@ -192,7 +192,7 @@
                                 &lt;/div&gt;
                                 &lt;div class=&quot;timeline-body&quot;&gt;
                                     
-                                        &lt;p&gt;I am not a description. I am not description.I am not description.&lt;/p&gt;
+                                        &lt;p&gt;Creation of language models from Wikipedia articles collected with keywords&lt;/p&gt;
                                     
                                 &lt;/div&gt;
                             &lt;/div&gt;
@@ -227,7 +227,7 @@
                                 &lt;/div&gt;
                                 &lt;div class=&quot;timeline-body&quot;&gt;
                                     
-                                        &lt;p&gt;I am not a description.&lt;/p&gt;
+                                        &lt;p&gt;Automatic captioning for deaf university students.&lt;/p&gt;
                                     
                                 &lt;/div&gt;
                             &lt;/div&gt;
@@ -262,7 +262,7 @@
                                 &lt;/div&gt;
                                 &lt;div class=&quot;timeline-body&quot;&gt;
                                     
-                                        &lt;p&gt;blabla&lt;/p&gt;
+                                        &lt;p&gt;Automatic recognition of Human Beatbox sounds.&lt;/p&gt;
                                     
                                 &lt;/div&gt;
                             &lt;/div&gt;
@@ -276,7 +276,7 @@
                     
                         &lt;li class=&quot;timeline-inverted&quot;&gt;
                             
-                                &lt;div class=&quot;timeline-badge info&quot;&gt;2005&lt;/div&gt;
+                                &lt;div class=&quot;timeline-badge info&quot;&gt;2017&lt;/div&gt;
                             
                             &lt;div class=&quot;timeline-panel grid-block&quot;&gt;
                                 &lt;div class=&quot;timeline-heading&quot;&gt;
@@ -286,17 +286,15 @@
                                     &lt;p&gt;
                                         &lt;small class=&quot;text-muted&quot;&gt;
                                             
-                                                Bachelor
+                                                master's degree
                                             
-                                            
-                                                , Software Engineering
                                             
                                         &lt;/small&gt;
                                     &lt;/p&gt;
                                     &lt;p&gt;
                                         &lt;small class=&quot;text-muted&quot;&gt;
                                             
-                                                &lt;i class=&quot;fa fa-calendar&quot;&gt;&lt;/i&gt; (2005 - 2009) |
+                                                &lt;i class=&quot;fa fa-calendar&quot;&gt;&lt;/i&gt; (2017 - 2019) |
                                             
                                             
                                                 &lt;i class=&quot;fa fa-map-marker&quot;&gt;&lt;/i&gt;  Grenoble, France
@@ -306,7 +304,7 @@
                                 &lt;/div&gt;
                                 &lt;div class=&quot;timeline-body&quot;&gt;
                                     
-                                        &lt;p&gt;I am not a description.&lt;/p&gt;
+                                        &lt;p&gt;Master's degree &quot;Industries de la langue&quot; in natural language processing&lt;/p&gt;
                                     
                                 &lt;/div&gt;
                             &lt;/div&gt;
@@ -314,7 +312,7 @@
                     
                         &lt;li class=&quot;timeline-inverted&quot;&gt;
                             
-                                &lt;div class=&quot;timeline-badge info&quot;&gt;20&lt;/div&gt;
+                                &lt;div class=&quot;timeline-badge info&quot;&gt;2016&lt;/div&gt;
                             
                             &lt;div class=&quot;timeline-panel grid-block&quot;&gt;
                                 &lt;div class=&quot;timeline-heading&quot;&gt;
@@ -324,17 +322,15 @@
                                     &lt;p&gt;
                                         &lt;small class=&quot;text-muted&quot;&gt;
                                             
-                                                xx
+                                                master's degree
                                             
-                                            
-                                                , ff
                                             
                                         &lt;/small&gt;
                                     &lt;/p&gt;
                                     &lt;p&gt;
                                         &lt;small class=&quot;text-muted&quot;&gt;
                                             
-                                                &lt;i class=&quot;fa fa-calendar&quot;&gt;&lt;/i&gt; (2020 -2020) |
+                                                &lt;i class=&quot;fa fa-calendar&quot;&gt;&lt;/i&gt; (2016 -2017) |
                                             
                                             
                                                 &lt;i class=&quot;fa fa-map-marker&quot;&gt;&lt;/i&gt;  Toulouse, France
@@ -344,7 +340,7 @@
                                 &lt;/div&gt;
                                 &lt;div class=&quot;timeline-body&quot;&gt;
                                     
-                                        &lt;p&gt;blabla&lt;/p&gt;
+                                        &lt;p&gt;Master's degree &quot;Linguistique, Cognition et Communication&quot; in linguistics and cognition.&lt;/p&gt;
                                     
                                 &lt;/div&gt;
                             &lt;/div&gt;
@@ -352,7 +348,7 @@
                     
                         &lt;li class=&quot;timeline-inverted&quot;&gt;
                             
-                                &lt;div class=&quot;timeline-badge info&quot;&gt;xx&lt;/div&gt;
+                                &lt;div class=&quot;timeline-badge info&quot;&gt;2015&lt;/div&gt;
                             
                             &lt;div class=&quot;timeline-panel grid-block&quot;&gt;
                                 &lt;div class=&quot;timeline-heading&quot;&gt;
@@ -362,17 +358,15 @@
                                     &lt;p&gt;
                                         &lt;small class=&quot;text-muted&quot;&gt;
                                             
-                                                xx
+                                                Bachelor's degree
                                             
-                                            
-                                                , xx
                                             
                                         &lt;/small&gt;
                                     &lt;/p&gt;
                                     &lt;p&gt;
                                         &lt;small class=&quot;text-muted&quot;&gt;
                                             
-                                                &lt;i class=&quot;fa fa-calendar&quot;&gt;&lt;/i&gt; (2020-2020) |
+                                                &lt;i class=&quot;fa fa-calendar&quot;&gt;&lt;/i&gt; (2013-2016) |
                                             
                                             
                                                 &lt;i class=&quot;fa fa-map-marker&quot;&gt;&lt;/i&gt;  Nantes, France
@@ -382,7 +376,39 @@
                                 &lt;/div&gt;
                                 &lt;div class=&quot;timeline-body&quot;&gt;
                                     
-                                        &lt;p&gt;blabla&lt;/p&gt;
+                                        &lt;p&gt;Bachelor's degree &quot;Langues, Littératures et Civilisations Etrangères&quot; in language, literature and civilization (English)&lt;/p&gt;
+                                    
+                                &lt;/div&gt;
+                            &lt;/div&gt;
+                        &lt;/li&gt;
+                    
+                        &lt;li class=&quot;timeline-inverted&quot;&gt;
+                            
+                            &lt;div class=&quot;timeline-panel grid-block&quot;&gt;
+                                &lt;div class=&quot;timeline-heading&quot;&gt;
+                                    
+                                        &lt;h4 class=&quot;timeline-title&quot;&gt;Lycée Galilée&lt;/h4&gt;
+                                    
+                                    &lt;p&gt;
+                                        &lt;small class=&quot;text-muted&quot;&gt;
+                                            
+                                                high school diploma
+                                            
+                                            
+                                        &lt;/small&gt;
+                                    &lt;/p&gt;
+                                    &lt;p&gt;
+                                        &lt;small class=&quot;text-muted&quot;&gt;
+                                            
+                                            
+                                                &lt;i class=&quot;fa fa-map-marker&quot;&gt;&lt;/i&gt;  Guérande, France
+                                            
+                                        &lt;/small&gt;
+                                    &lt;/p&gt;
+                                &lt;/div&gt;
+                                &lt;div class=&quot;timeline-body&quot;&gt;
+                                    
+                                        &lt;p&gt;High school diploma in literature.&lt;/p&gt;
                                     
                                 &lt;/div&gt;
                             &lt;/div&gt;
@@ -399,66 +425,29 @@
                         
                             &lt;li&gt;
                                 
+                                    &lt;span class=&quot;caption-skill&quot;&gt;Python&lt;/span&gt;
+                                
+                                
+                            &lt;/li&gt;
+                        
+                            &lt;li&gt;
+                                
+                                    &lt;span class=&quot;caption-skill&quot;&gt;Bash&lt;/span&gt;
+                                
+                                
+                            &lt;/li&gt;
+                        
+                            &lt;li&gt;
+                                
                                     &lt;span class=&quot;caption-skill&quot;&gt;HTML&lt;/span&gt;
                                 
                                 
-                                    &lt;div class=&quot;progress&quot;&gt;
-                                        &lt;div class=&quot;progress-bar&quot; style=&quot;width: 100%&quot;&gt;
-                                            &lt;span&gt;100% &lt;/span&gt;
-                                        &lt;/div&gt;
-                                    &lt;/div&gt;
-                                
                             &lt;/li&gt;
                         
                             &lt;li&gt;
                                 
-                                    &lt;span class=&quot;caption-skill&quot;&gt;Bootstrap&lt;/span&gt;
+                                    &lt;span class=&quot;caption-skill&quot;&gt;Java&lt;/span&gt;
                                 
-                                
-                                    &lt;div class=&quot;progress&quot;&gt;
-                                        &lt;div class=&quot;progress-bar&quot; style=&quot;width: 90%&quot;&gt;
-                                            &lt;span&gt;90% &lt;/span&gt;
-                                        &lt;/div&gt;
-                                    &lt;/div&gt;
-                                
-                            &lt;/li&gt;
-                        
-                            &lt;li&gt;
-                                
-                                    &lt;span class=&quot;caption-skill&quot;&gt;JavaScript&lt;/span&gt;
-                                
-                                
-                                    &lt;div class=&quot;progress&quot;&gt;
-                                        &lt;div class=&quot;progress-bar&quot; style=&quot;width: 70%&quot;&gt;
-                                            &lt;span&gt;70% &lt;/span&gt;
-                                        &lt;/div&gt;
-                                    &lt;/div&gt;
-                                
-                            &lt;/li&gt;
-                        
-                            &lt;li&gt;
-                                
-                                    &lt;span class=&quot;caption-skill&quot;&gt;AngularJS&lt;/span&gt;
-                                
-                                
-                                    &lt;div class=&quot;progress&quot;&gt;
-                                        &lt;div class=&quot;progress-bar&quot; style=&quot;width: 70%&quot;&gt;
-                                            &lt;span&gt;70% &lt;/span&gt;
-                                        &lt;/div&gt;
-                                    &lt;/div&gt;
-                                
-                            &lt;/li&gt;
-                        
-                            &lt;li&gt;
-                                
-                                    &lt;span class=&quot;caption-skill&quot;&gt;Java/Java EE&lt;/span&gt;
-                                
-                                
-                                    &lt;div class=&quot;progress&quot;&gt;
-                                        &lt;div class=&quot;progress-bar&quot; style=&quot;width: 90%&quot;&gt;
-                                            &lt;span&gt;90% &lt;/span&gt;
-                                        &lt;/div&gt;
-                                    &lt;/div&gt;
                                 
                             &lt;/li&gt;
                         
@@ -474,7 +463,7 @@
                             
                                 
                                     &lt;li&gt;
-                                        &lt;i class=&quot;fa fa-check&quot;&gt;&lt;/i&gt; &lt;span class=&quot;badge badge-green badge-right-float&quot;&gt;Native&lt;/span&gt;Chinese
+                                        &lt;i class=&quot;fa fa-check&quot;&gt;&lt;/i&gt; &lt;span class=&quot;badge badge-green badge-right-float&quot;&gt;Native&lt;/span&gt;French
                                     &lt;/li&gt;
                                 
                             
@@ -483,14 +472,6 @@
                                 
                                     &lt;li&gt;
                                         &lt;i class=&quot;fa fa-check&quot;&gt;&lt;/i&gt; &lt;span class=&quot;badge badge-green badge-right-float&quot;&gt;Professional&lt;/span&gt;English
-                                    &lt;/li&gt;
-                                
-                            
-                        
-                            
-                                
-                                    &lt;li&gt;
-                                        &lt;i class=&quot;fa fa-check&quot;&gt;&lt;/i&gt; &lt;span class=&quot;badge badge-green badge-right-float&quot;&gt;Limit&lt;/span&gt;Japanese
                                     &lt;/li&gt;
                                 
                             
@@ -518,7 +499,7 @@
       
 
       
-        <summary type="html">Work History 2020 LIG laboratory PhD student (2020 - Present) | Grenoble, France Spontaneous speech recognition 2020 LIG laboratory Ingénieure d'études (June 2020 - Aug. 2020) | Grenoble, France I am not a description. I am not description.I am not description. 2019 LIG laboratory Ingénieure d'études (Oct. 2019 - May 2020) | Grenoble, France I am not a description. 2019 LIG laboratory Intern (March 2019 - Aug. 2019) | Grenoble, France blabla Education History 2005 Grenoble University Bachelor , Software Engineering (2005 - 2009) | Grenoble, France I am not a description. 20 University of Toulouse xx , ff (2020 -2020) | Toulouse, France blabla xx Université de Nantes xx , xx (2020-2020) | Nantes, France blabla Programming Skills HTML 100% Bootstrap 90% JavaScript 70% AngularJS 70% Java/Java EE 90% Language Skills NativeChinese ProfessionalEnglish LimitJapanese</summary>
+        <summary type="html">Work History 2020 LIG laboratory PhD student (2020 - Present) | Grenoble, France Deep learning models for the recognition and analysis of spontaneous speech. 2020 LIG laboratory Ingénieure d'études (June 2020 - Aug. 2020) | Grenoble, France Creation of language models from Wikipedia articles collected with keywords 2019 LIG laboratory Ingénieure d'études (Oct. 2019 - May 2020) | Grenoble, France Automatic captioning for deaf university students. 2019 LIG laboratory Intern (March 2019 - Aug. 2019) | Grenoble, France Automatic recognition of Human Beatbox sounds. Education History 2017 Grenoble University master's degree (2017 - 2019) | Grenoble, France Master's degree &quot;Industries de la langue&quot; in natural language processing 2016 University of Toulouse master's degree (2016 -2017) | Toulouse, France Master's degree &quot;Linguistique, Cognition et Communication&quot; in linguistics and cognition. 2015 Université de Nantes Bachelor's degree (2013-2016) | Nantes, France Bachelor's degree &quot;Langues, Littératures et Civilisations Etrangères&quot; in language, literature and civilization (English) Lycée Galilée high school diploma Guérande, France High school diploma in literature. Programming Skills Python Bash HTML Java Language Skills NativeFrench ProfessionalEnglish</summary>
       
 
       
